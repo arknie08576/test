@@ -10,6 +10,8 @@ public class Main {
 
 
         System.out.println("Enter a password: ");
+	System.out.println("Enter a password: ");
+
 	// write your code here
     }
 }
