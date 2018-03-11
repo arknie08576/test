@@ -10,7 +10,7 @@ public class Main {
 
 
         System.out.println("Enter a password: ");
-	System.out.println("naranch bran ");
+	System.out.println("trzeci bran ");
 
 	// write your code here
     }
